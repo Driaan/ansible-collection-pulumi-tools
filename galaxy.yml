@@ -2,6 +2,7 @@ namespace: driaan
 name: pulumi_tools
 version: 1.0.0
 readme: README.md
+repository: https://github.com/Driaan/ansible-collection-pulumi-tools
 authors:
   - Driaan <debeste.driaan@gmail.com>
 description: >
