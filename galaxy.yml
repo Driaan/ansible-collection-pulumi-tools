@@ -1,0 +1,15 @@
+namespace: driaan
+name: pulumi_tools
+version: 1.0.0
+readme: README.md
+authors:
+  - Driaan <debeste.driaan@gmail.com>
+description: >
+  A collection containing a custom lookup plugin for interacting with Pulumi ESC. Requires the Pulumi ESC CLI.
+license: MIT
+tags:
+  - lookup
+  - pulumi
+  - secrets
+  - esc
+dependencies: {}
